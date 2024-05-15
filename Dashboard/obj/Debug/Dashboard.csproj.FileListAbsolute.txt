@@ -1,0 +1,108 @@
+C:\Users\dns\Desktop\вебинары\Dashboard\Dashboard\bin\Debug\Dashboard.exe
+C:\Users\dns\Desktop\вебинары\Dashboard\Dashboard\bin\Debug\Dashboard.pdb
+C:\Users\dns\Desktop\вебинары\Dashboard\Dashboard\obj\Debug\MainWindow.g.cs
+C:\Users\dns\Desktop\вебинары\Dashboard\Dashboard\obj\Debug\PieChart\PieChart\PieChartLayout.g.cs
+C:\Users\dns\Desktop\вебинары\Dashboard\Dashboard\obj\Debug\PieChart\PieChart\PiePlotter.g.cs
+C:\Users\dns\Desktop\вебинары\Dashboard\Dashboard\obj\Debug\App.g.cs
+C:\Users\dns\Desktop\вебинары\Dashboard\Dashboard\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\dns\Desktop\вебинары\Dashboard\Dashboard\obj\Debug\Dashboard_MarkupCompile.cache
+C:\Users\dns\Desktop\вебинары\Dashboard\Dashboard\obj\Debug\Dashboard_MarkupCompile.lref
+C:\Users\dns\Desktop\вебинары\Dashboard\Dashboard\obj\Debug\MainWindow.baml
+C:\Users\dns\Desktop\вебинары\Dashboard\Dashboard\obj\Debug\PieChart\PieChart\PieChartLayout.baml
+C:\Users\dns\Desktop\вебинары\Dashboard\Dashboard\obj\Debug\PieChart\PieChart\PiePlotter.baml
+C:\Users\dns\Desktop\вебинары\Dashboard\Dashboard\obj\Debug\Dashboard.g.resources
+C:\Users\dns\Desktop\вебинары\Dashboard\Dashboard\obj\Debug\Dashboard.Properties.Resources.resources
+C:\Users\dns\Desktop\вебинары\Dashboard\Dashboard\obj\Debug\Dashboard.csproj.GenerateResource.cache
+C:\Users\dns\Desktop\вебинары\Dashboard\Dashboard\obj\Debug\Dashboard.csproj.CoreCompileInputs.cache
+C:\Users\dns\Desktop\вебинары\Dashboard\Dashboard\obj\Debug\Dashboard.exe
+C:\Users\dns\Desktop\вебинары\Dashboard\Dashboard\obj\Debug\Dashboard.pdb
+D:\Users\tuyakbaev.rn2145\Downloads\Dashboard-master\Dashboard\bin\Debug\Dashboard.exe.config
+D:\Users\tuyakbaev.rn2145\Downloads\Dashboard-master\Dashboard\bin\Debug\Dashboard.exe
+D:\Users\tuyakbaev.rn2145\Downloads\Dashboard-master\Dashboard\bin\Debug\Dashboard.pdb
+D:\Users\tuyakbaev.rn2145\Downloads\Dashboard-master\Dashboard\obj\Debug\Dashboard.csproj.AssemblyReference.cache
+D:\Users\tuyakbaev.rn2145\Downloads\Dashboard-master\Dashboard\obj\Debug\MainWindow.g.cs
+D:\Users\tuyakbaev.rn2145\Downloads\Dashboard-master\Dashboard\obj\Debug\PieChart\PieChart\PieChartLayout.g.cs
+D:\Users\tuyakbaev.rn2145\Downloads\Dashboard-master\Dashboard\obj\Debug\PieChart\PieChart\PiePlotter.g.cs
+D:\Users\tuyakbaev.rn2145\Downloads\Dashboard-master\Dashboard\obj\Debug\App.g.cs
+D:\Users\tuyakbaev.rn2145\Downloads\Dashboard-master\Dashboard\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Users\tuyakbaev.rn2145\Downloads\Dashboard-master\Dashboard\obj\Debug\Dashboard_MarkupCompile.cache
+D:\Users\tuyakbaev.rn2145\Downloads\Dashboard-master\Dashboard\obj\Debug\Dashboard_MarkupCompile.lref
+D:\Users\tuyakbaev.rn2145\Downloads\Dashboard-master\Dashboard\obj\Debug\MainWindow.baml
+D:\Users\tuyakbaev.rn2145\Downloads\Dashboard-master\Dashboard\obj\Debug\PieChart\PieChart\PieChartLayout.baml
+D:\Users\tuyakbaev.rn2145\Downloads\Dashboard-master\Dashboard\obj\Debug\PieChart\PieChart\PiePlotter.baml
+D:\Users\tuyakbaev.rn2145\Downloads\Dashboard-master\Dashboard\obj\Debug\Dashboard.g.resources
+D:\Users\tuyakbaev.rn2145\Downloads\Dashboard-master\Dashboard\obj\Debug\Dashboard.Properties.Resources.resources
+D:\Users\tuyakbaev.rn2145\Downloads\Dashboard-master\Dashboard\obj\Debug\Dashboard.csproj.GenerateResource.cache
+D:\Users\tuyakbaev.rn2145\Downloads\Dashboard-master\Dashboard\obj\Debug\Dashboard.csproj.CoreCompileInputs.cache
+D:\Users\tuyakbaev.rn2145\Downloads\Dashboard-master\Dashboard\obj\Debug\Dashboard.exe
+D:\Users\tuyakbaev.rn2145\Downloads\Dashboard-master\Dashboard\obj\Debug\Dashboard.pdb
+C:\Users\kalin\OneDrive\Desktop\проект учёт\Dashboard-master\Dashboard\obj\Debug\Dashboard.csproj.AssemblyReference.cache
+C:\Users\kalin\OneDrive\Desktop\проект учёт\Dashboard-master\Dashboard\obj\Debug\MainWindow.g.cs
+C:\Users\kalin\OneDrive\Desktop\проект учёт\Dashboard-master\Dashboard\obj\Debug\PieChart\PieChart\PieChartLayout.g.cs
+C:\Users\kalin\OneDrive\Desktop\проект учёт\Dashboard-master\Dashboard\obj\Debug\PieChart\PieChart\PiePlotter.g.cs
+C:\Users\kalin\OneDrive\Desktop\проект учёт\Dashboard-master\Dashboard\obj\Debug\Registration.g.cs
+C:\Users\kalin\OneDrive\Desktop\проект учёт\Dashboard-master\Dashboard\obj\Debug\App.g.cs
+C:\Users\kalin\OneDrive\Desktop\проект учёт\Dashboard-master\Dashboard\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\kalin\OneDrive\Desktop\проект учёт\Dashboard-master\Dashboard\obj\Debug\Dashboard_MarkupCompile.cache
+C:\Users\kalin\OneDrive\Desktop\проект учёт\Dashboard-master\Dashboard\obj\Debug\Dashboard_MarkupCompile.lref
+C:\Users\kalin\OneDrive\Desktop\проект учёт\Dashboard-master\Dashboard\obj\Debug\Dashboard.exe
+C:\Users\kalin\OneDrive\Desktop\проект учёт\Dashboard-master\Dashboard\obj\Debug\Dashboard.pdb
+C:\Users\kalin\OneDrive\Desktop\проект учёт\Dashboard-master\Dashboard\bin\Debug\Dashboard.exe.config
+C:\Users\kalin\OneDrive\Desktop\проект учёт\Dashboard-master\Dashboard\bin\Debug\Dashboard.exe
+C:\Users\kalin\OneDrive\Desktop\проект учёт\Dashboard-master\Dashboard\bin\Debug\Dashboard.pdb
+C:\Users\kalin\OneDrive\Desktop\проект учёт\Dashboard-master\Dashboard\obj\Debug\MainWindow.baml
+C:\Users\kalin\OneDrive\Desktop\проект учёт\Dashboard-master\Dashboard\obj\Debug\PieChart\PieChart\PieChartLayout.baml
+C:\Users\kalin\OneDrive\Desktop\проект учёт\Dashboard-master\Dashboard\obj\Debug\PieChart\PieChart\PiePlotter.baml
+C:\Users\kalin\OneDrive\Desktop\проект учёт\Dashboard-master\Dashboard\obj\Debug\Registration.baml
+C:\Users\kalin\OneDrive\Desktop\проект учёт\Dashboard-master\Dashboard\obj\Debug\Dashboard.g.resources
+C:\Users\kalin\OneDrive\Desktop\проект учёт\Dashboard-master\Dashboard\obj\Debug\Dashboard.Properties.Resources.resources
+C:\Users\kalin\OneDrive\Desktop\проект учёт\Dashboard-master\Dashboard\obj\Debug\Dashboard.csproj.GenerateResource.cache
+C:\Users\kalin\OneDrive\Desktop\проект учёт\Dashboard-master\Dashboard\obj\Debug\Dashboard.csproj.CoreCompileInputs.cache
+C:\Users\kalin\OneDrive\Desktop\проект учёт\Dashboard-master\Dashboard\bin\Debug\Users.db
+C:\Users\kalin\OneDrive\Desktop\проект учёт\Dashboard-master\Dashboard\bin\Debug\EntityFramework.dll
+C:\Users\kalin\OneDrive\Desktop\проект учёт\Dashboard-master\Dashboard\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kalin\OneDrive\Desktop\проект учёт\Dashboard-master\Dashboard\bin\Debug\System.Data.SQLite.dll
+C:\Users\kalin\OneDrive\Desktop\проект учёт\Dashboard-master\Dashboard\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\kalin\OneDrive\Desktop\проект учёт\Dashboard-master\Dashboard\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\kalin\OneDrive\Desktop\проект учёт\Dashboard-master\Dashboard\bin\Debug\EntityFramework.xml
+C:\Users\kalin\OneDrive\Desktop\проект учёт\Dashboard-master\Dashboard\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kalin\OneDrive\Desktop\проект учёт\Dashboard-master\Dashboard\bin\Debug\System.Data.SQLite.xml
+C:\Users\kalin\OneDrive\Desktop\проект учёт\Dashboard-master\Dashboard\obj\Debug\Dashboard.csproj.Up2Date
+C:\Users\kalin\OneDrive\Desktop\проект учёт\Dashboard-master\Dashboard\obj\Debug\Authentication.g.cs
+C:\Users\kalin\OneDrive\Desktop\проект учёт\Dashboard-master\Dashboard\obj\Debug\Authentication.baml
+C:\Users\kalin\OneDrive\Desktop\проект учёт\Dashboard\Dashboard\bin\Debug\Users.db
+C:\Users\kalin\OneDrive\Desktop\проект учёт\Dashboard\Dashboard\bin\Debug\Dashboard.exe.config
+C:\Users\kalin\OneDrive\Desktop\проект учёт\Dashboard\Dashboard\bin\Debug\Dashboard.exe
+C:\Users\kalin\OneDrive\Desktop\проект учёт\Dashboard\Dashboard\bin\Debug\Dashboard.pdb
+C:\Users\kalin\OneDrive\Desktop\проект учёт\Dashboard\Dashboard\bin\Debug\EntityFramework.dll
+C:\Users\kalin\OneDrive\Desktop\проект учёт\Dashboard\Dashboard\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kalin\OneDrive\Desktop\проект учёт\Dashboard\Dashboard\bin\Debug\System.Data.SQLite.dll
+C:\Users\kalin\OneDrive\Desktop\проект учёт\Dashboard\Dashboard\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\kalin\OneDrive\Desktop\проект учёт\Dashboard\Dashboard\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\kalin\OneDrive\Desktop\проект учёт\Dashboard\Dashboard\bin\Debug\EntityFramework.xml
+C:\Users\kalin\OneDrive\Desktop\проект учёт\Dashboard\Dashboard\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kalin\OneDrive\Desktop\проект учёт\Dashboard\Dashboard\bin\Debug\System.Data.SQLite.xml
+C:\Users\kalin\OneDrive\Desktop\проект учёт\Dashboard\Dashboard\obj\Debug\Dashboard.csproj.AssemblyReference.cache
+C:\Users\kalin\OneDrive\Desktop\проект учёт\Dashboard\Dashboard\obj\Debug\Authentication.g.cs
+C:\Users\kalin\OneDrive\Desktop\проект учёт\Dashboard\Dashboard\obj\Debug\MainWindow.g.cs
+C:\Users\kalin\OneDrive\Desktop\проект учёт\Dashboard\Dashboard\obj\Debug\PieChart\PieChart\PieChartLayout.g.cs
+C:\Users\kalin\OneDrive\Desktop\проект учёт\Dashboard\Dashboard\obj\Debug\PieChart\PieChart\PiePlotter.g.cs
+C:\Users\kalin\OneDrive\Desktop\проект учёт\Dashboard\Dashboard\obj\Debug\Registration.g.cs
+C:\Users\kalin\OneDrive\Desktop\проект учёт\Dashboard\Dashboard\obj\Debug\App.g.cs
+C:\Users\kalin\OneDrive\Desktop\проект учёт\Dashboard\Dashboard\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\kalin\OneDrive\Desktop\проект учёт\Dashboard\Dashboard\obj\Debug\Dashboard_MarkupCompile.cache
+C:\Users\kalin\OneDrive\Desktop\проект учёт\Dashboard\Dashboard\obj\Debug\Dashboard_MarkupCompile.lref
+C:\Users\kalin\OneDrive\Desktop\проект учёт\Dashboard\Dashboard\obj\Debug\Authentication.baml
+C:\Users\kalin\OneDrive\Desktop\проект учёт\Dashboard\Dashboard\obj\Debug\MainWindow.baml
+C:\Users\kalin\OneDrive\Desktop\проект учёт\Dashboard\Dashboard\obj\Debug\PieChart\PieChart\PieChartLayout.baml
+C:\Users\kalin\OneDrive\Desktop\проект учёт\Dashboard\Dashboard\obj\Debug\PieChart\PieChart\PiePlotter.baml
+C:\Users\kalin\OneDrive\Desktop\проект учёт\Dashboard\Dashboard\obj\Debug\Registration.baml
+C:\Users\kalin\OneDrive\Desktop\проект учёт\Dashboard\Dashboard\obj\Debug\Dashboard.g.resources
+C:\Users\kalin\OneDrive\Desktop\проект учёт\Dashboard\Dashboard\obj\Debug\Dashboard.Properties.Resources.resources
+C:\Users\kalin\OneDrive\Desktop\проект учёт\Dashboard\Dashboard\obj\Debug\Dashboard.csproj.GenerateResource.cache
+C:\Users\kalin\OneDrive\Desktop\проект учёт\Dashboard\Dashboard\obj\Debug\Dashboard.csproj.CoreCompileInputs.cache
+C:\Users\kalin\OneDrive\Desktop\проект учёт\Dashboard\Dashboard\obj\Debug\Dashboard.csproj.Up2Date
+C:\Users\kalin\OneDrive\Desktop\проект учёт\Dashboard\Dashboard\obj\Debug\Dashboard.exe
+C:\Users\kalin\OneDrive\Desktop\проект учёт\Dashboard\Dashboard\obj\Debug\Dashboard.pdb
+C:\Users\kalin\OneDrive\Desktop\проект учёт\Dashboard\Dashboard\obj\Debug\UserPage.g.cs
+C:\Users\kalin\OneDrive\Desktop\проект учёт\Dashboard\Dashboard\obj\Debug\UserPage.baml
